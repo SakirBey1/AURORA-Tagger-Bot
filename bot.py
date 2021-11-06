@@ -25,7 +25,7 @@ async def cancel(event):
 
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
-  await event.reply("**AURORAUserTaggerBots**, Grup veya kanaldaki neredeyse tüm üyelerden bahsedebilirim Bu tür botlar için Kod Sahibi ile iletişime geçin @SakirBey1 ★\nDaha fazla bilgi için **/help**'i tıklayın.",
+  await event.reply("**AURORAUserTaggerBots**, \nGrup veya kanaldaki neredeyse tüm üyelerden bahsedebilirim Bu tür botlar için Kod Sahibi ile iletişime geçin @SakirBey1 ve @BayDoctor ★\nDaha fazla bilgi için **/help**'i tıklayın.",
                     buttons=(
                       [Button.url('➕ Beni Bir Gruba Ekle', 'https://t.me/AuroraTag_Bot?startgroup=a'),
                       Button.url(' 🛠Support', 'https://t.me/Grupredline'),
