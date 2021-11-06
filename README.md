@@ -13,3 +13,5 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 - [Ben](https://github.com/SakirBey1) bu Proje için ;)
 
 **Beni Github'dan takip etmeyi unutmayın ✌️**
+
+# Güncel aktif çalışıyor ✅
